@@ -1,0 +1,14 @@
+{
+  "name": "docker_hotel_app",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "uma.sabada@oracle.com",
+  "main": "hotels.js",
+  "scripts": {
+    "start": "node hotels.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3",
+    "request": "~2.78.0"
+  }
+}

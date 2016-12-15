@@ -1,0 +1,1 @@
+Top Hotels based on User Review on the selected vacation spot
